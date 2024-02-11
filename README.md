@@ -1,4 +1,4 @@
-# Keyboard Racing
+# [WORK IN PROGRESS] Keyboard Racing
 
 Keyboard Racing is a real-time typing race application built with Next.js and TypeScript. Challenge your friends or join random races to test your typing speed and accuracy!
 
