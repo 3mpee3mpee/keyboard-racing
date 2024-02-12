@@ -20,5 +20,5 @@ export function HeaderLogo(props: any) {
             <path d="M9 9h.01" />
             <path d="M15 9h.01" />
         </svg>
-    )
+    );
 }
